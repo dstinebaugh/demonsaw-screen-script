@@ -1,5 +1,6 @@
 #!/bin/bash
 #Startup script for services on my cloud
+#Edit the lines between the "Settings" section as needed for your environment.
 
 # Settings
 USERNAME='daniel'
